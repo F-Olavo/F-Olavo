@@ -28,9 +28,9 @@ I enjoy learning by building projects, experimenting with new technologies, and 
 
 ## Projects
 
-Most of my repositories are projects created while learning and experimenting with programming.
+Some of my repositories contain projects I created while learning and experimenting with programming, while others are portfolio projects or projects I decided to develop on my own.
 
-I believe the best way to learn is by building, making mistakes, and improving along the way.
+I believe the best way to learn is through practical experience, making mistakes, and growing throughout the process.
 
 ---
 
