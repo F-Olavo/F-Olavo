@@ -10,7 +10,7 @@ I enjoy learning by building projects, experimenting with new technologies, and 
 
 ## About Me
 
-* Currently learning **JavaScript**
+* Currently learning **JavaScript and PHP**
 * Building projects to improve my programming skills
 * Exploring **web development** and **software development**
 * Interested in collaborating on interesting projects
