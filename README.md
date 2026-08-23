@@ -21,7 +21,7 @@ I enjoy learning by building projects, experimenting with new technologies, and 
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,react,MySQL,git,github" />
 </p>
 
 ---
